@@ -1,0 +1,133 @@
+{
+    "name": "shouldStayOnNewsCreationScreenWhenCreatingNewsWithEmptyFields",
+    "start": 1733154355150,
+    "stop": 1733154360861,
+    "stage": "finished",
+    "description": "Создание новости с пустыми полями",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переход на страницу 'Новости'",
+            "start": 1733154358437,
+            "stop": 1733154358437,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход на 'Панель управления'",
+            "start": 1733154359216,
+            "stop": 1733154359216,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажатие на кнопку 'Добавить новость'",
+            "start": 1733154359801,
+            "stop": 1733154359801,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажатие на кнопку 'Сохранить'",
+            "start": 1733154360171,
+            "stop": 1733154360172,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка, что форма создания новости осталась отображена",
+            "start": 1733154360578,
+            "stop": 1733154360578,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "9f796b8e-55f6-49d4-9025-84d0e4efaf55",
+    "historyId": "956bf4b6c04eabbb97a4952ea8c8d282",
+    "fullName": "ru.iteco.fmhandroid.ui.pageObject.tests.CreateNewsTest.shouldStayOnNewsCreationScreenWhenCreatingNewsWithEmptyFields",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.pageObject.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.pageObject.tests.CreateNewsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldStayOnNewsCreationScreenWhenCreatingNewsWithEmptyFields"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.pageObject.tests.CreateNewsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(3582)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

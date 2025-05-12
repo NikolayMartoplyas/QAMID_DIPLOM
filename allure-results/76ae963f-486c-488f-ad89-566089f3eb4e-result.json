@@ -1,0 +1,69 @@
+{
+    "name": "openPageAboutApplication",
+    "start": 1733154469654,
+    "stop": 1733154474190,
+    "stage": "finished",
+    "description": "Переход на страницу 'О приложении'",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переход на страницу 'О приложении'",
+            "start": 1733154473112,
+            "stop": 1733154473112,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "76ae963f-486c-488f-ad89-566089f3eb4e",
+    "historyId": "afd4ed20d6178c10c5a237b164004060",
+    "fullName": "ru.iteco.fmhandroid.ui.pageObject.tests.MainPageTest.openPageAboutApplication",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.pageObject.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.pageObject.tests.MainPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "openPageAboutApplication"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.pageObject.tests.MainPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(3582)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
